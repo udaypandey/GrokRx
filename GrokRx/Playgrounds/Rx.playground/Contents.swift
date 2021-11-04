@@ -36,3 +36,30 @@ let just = Observable.just(4)
 //let viewController = RxViewController()
 //PlaygroundPage.current.liveView = UINavigationController(rootViewController: viewController)
 //PlaygroundPage.current.needsIndefiniteExecution = true
+
+//let json = """
+//{
+//  "slides": [
+//    {
+//      "title": "SwiftUI In Depth",
+//      "type": "swiftui"
+//    },
+//    {
+//      "title": "Watch OS Overview",
+//      "type": "watchos"
+//    },
+//    {
+//      "title": "Combine In Practice",
+//      "type": "combine"
+//    },
+//    {
+//      "title": "Testing Combine",
+//      "type": "combine"
+//    },
+//    {
+//      "title": "Whats new in Apple Pay",
+//      "type": "applepay"
+//    }
+//  ]
+//}
+//"""
